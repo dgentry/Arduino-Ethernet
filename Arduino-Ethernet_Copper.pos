@@ -1,0 +1,18 @@
+### Module positions - created on Saturday, February 11, 2012 02:41:26 PM ###
+### Printed by Pcbnew version pcbnew (2011-12-21 BZR 3253)-stable
+## Unit = inches, Angle = deg.
+## Side : Copper
+# Ref    Val                  PosX       PosY        Rot     Side
+C1       18pF                 6.9050     3.9050       0.0    Copper
+C2       18pF                 6.9300     3.7350     270.0    Copper
+C3       100nF                6.9050     4.5850     180.0    Copper
+C4       100nF                6.7050     2.9500      90.0    Copper
+C5       10uF                 5.6250     2.9400      90.0    Copper
+C6       18pF                 5.0300     4.0850      90.0    Copper
+C7       18pF                 5.1600     3.8700      90.0    Copper
+C8       100nF                5.1500     3.6150      90.0    Copper
+C9       100nF                4.5350     3.3850     270.0    Copper
+C10      10uF                 7.1500     3.1900       0.0    Copper
+C11      10uF                 5.7050     4.4800      90.0    Copper
+U1       74LS08               5.9850     4.0250      90.0    Copper
+## End
